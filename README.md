@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Klaudia
 - 👀 I’m interested in quitar, sport
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java
 
 - 📫 How to reach me - by email.
 - 😄 Pronouns: she/her
