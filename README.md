@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Klaudia
-- 👀 I’m interested in quitar, sport
-- 🌱 I’m currently learning Java
+- 👀 What I love? Web Development. and my dog. Definetly. 
+- 🌱 I’m currently learning iOS Development & Cyber Security!
 
-- 📫 How to reach me - by email.
+- 📫 How to reach me - by email : klaudia.kulawik98@outlook.com
 - 😄 Pronouns: she/her
 
 
